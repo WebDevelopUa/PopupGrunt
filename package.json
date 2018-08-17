@@ -1,0 +1,21 @@
+{
+  "name": "popup-grunt",
+  "version": "1.0.0",
+  "description": "Pop-up modal example with jQuery, Grunt and SCSS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taniarascia/startgrunt.git"
+  },
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-qunit": "^3.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.4.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
